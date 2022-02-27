@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation, by way of epistle to the friends of Christ, every where.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85258</idno>
+            <idno type="STC">Wing F863A</idno>
+            <idno type="STC">ESTC R177041</idno>
+            <idno type="EEBO-CITATION">45789305</idno>
+            <idno type="OCLC">ocm 45789305</idno>
+            <idno type="VID">172614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172614)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation, by way of epistle to the friends of Christ, every where.</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Northcot ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Field by Wing.</note>
+                  <note>Advertisements: [1] p. at end.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172614:1" rendition="simple:additions"/>
+            <p>AN EXHORTATION, By way of EPISTLE TO THE <hi>Friends of Chriſt,</hi> Every Where.</p>
+            <q>Jeſus ſaid, My doctrine is not mine, but his that ſent me. If any man will do his will, he ſhall know of the doctrine whe<g ref="char:EOLhyphen"/>ther it be of God, or whether I ſpeak of my ſelf,
+<bibl>Joh. 7. 16, 17.</bibl>
+            </q>
+            <q>Where two or three are gathered together, in my name, there am I, in the midst of them,
+<bibl>Matt. 18. 20.</bibl>
+            </q>
+            <q>If ye keep my commandments ye ſhall abide in my love; even as I have kept my fa<g ref="char:EOLhyphen"/>ther's commandments, and abide in his love,
+<bibl>Joh. 15. 10.</bibl>
+            </q>
+            <p>
+               <hi>London;</hi> Printed for <hi>T. Northcot,</hi> in <hi>George-yard,</hi> in <hi>Lombard-ſtreet,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172614:2"/>
+            <pb n="3" facs="tcp:172614:2"/>
+            <head>AN Exhortation, <hi>&amp;c.</hi>
+            </head>
+            <p>DEar and tender <hi>Friends, Brethren</hi> and <hi>Siſters,</hi> whom the Lord in his tender Love hath viſited in theſe lat<g ref="char:EOLhyphen"/>ter Days, and after a long and tedious Night of Darkneſs and Time of Apoſtacy, where<g ref="char:EOLhyphen"/>in the ſaving Knowledge of the glorious God and our bleſ<g ref="char:EOLhyphen"/>ſed Saviour Jeſus Chriſt hath been but little known, and livingly experienced; to you who are now viſited with the
+<pb n="4" facs="tcp:172614:3"/> bright-ſhining Light of his glorious Day, <hi>that hath ſprung up in this latter Age,</hi> and are called by his bleſſed <hi>Grace,</hi> and quickned by his living <hi>Spirit,</hi> raiſed by his eternal <hi>Power,</hi> to be a People, to the Praiſe of his <hi>Grace,</hi> and to the Hon<g ref="char:EOLhyphen"/>our of his everlaſting <hi>Name,</hi> and through the Revelation of our Lord Jeſus Chriſt, are made Partakers of God's <hi>ſav<g ref="char:EOLhyphen"/>ing Knowledge,</hi> in a good de<g ref="char:EOLhyphen"/>gree, and in whom the Al<g ref="char:EOLhyphen"/>mighty God our Heavenly Father, by his <hi>powerful Word</hi> hath began his glorious <hi>Work</hi> of <hi>Righteouſneſs, Redem<g ref="char:EOLhyphen"/>ption</hi> and <hi>Eternal Salvati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>To you, O my Friends, I feel the Love of God flow,
+<pb n="5" facs="tcp:172614:3"/> and thereby am <hi>drawn</hi> to ſend theſe following Lines, not on<g ref="char:EOLhyphen"/>ly as a Salutation of endeared Love, but as Counſel and Ad<g ref="char:EOLhyphen"/>vice on the ſeveral Heads fol<g ref="char:EOLhyphen"/>lowing, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. <hi>To be diligent in waiting upon the Lord.</hi>
+               </item>
+               <item>II. <hi>And frequent in that Chri<g ref="char:EOLhyphen"/>ſtian Duty, in meeting toge<g ref="char:EOLhyphen"/>ther for that End.</hi>
+               </item>
+            </list>
+            <p>That you may renew your Acquaintance with him and your Strength in him, and be enabled by him, in Faithful<g ref="char:EOLhyphen"/>neſs to follow him, and may feel your Hearts filled with <hi>Love</hi> to him, <hi>Fear</hi> towards him, <hi>Zeal</hi> for him, and a god<g ref="char:EOLhyphen"/>ly <hi>Concern</hi> for his Glory,
+<pb facs="tcp:172614:4"/>
+               <pb n="4" facs="tcp:172614:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:172614:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:172614:6"/> the Propagating and Spread<g ref="char:EOLhyphen"/>ing of his precious <hi>Truth,</hi> the Exaltation and Renowning of his excellent <hi>Name,</hi> and in <hi>Plainneſs and Simplicity</hi> may be found, bearing your Teſti<g ref="char:EOLhyphen"/>mony for him in <hi>all</hi> Reſpects, and not decline it in any. That you may have his Bleſ<g ref="char:EOLhyphen"/>ſings, enjoy his Preſence, and be more abundantly made Par<g ref="char:EOLhyphen"/>takers of the Comforts of his Holy Spirit, and Joy of his Salvation.</p>
+            <p>And for this End I do in bro<g ref="char:EOLhyphen"/>therly Love exhort all to be in<g ref="char:EOLhyphen"/>ward in their Minds, and to have their Hearts exerciſed in that <hi>Light</hi> in which they have <hi>believed,</hi> and that <hi>Spirit</hi> by which they have been <hi>quickened:</hi> And then you
+<pb n="7" facs="tcp:172614:6"/> will ſee your ſelves, know your States, be ſenſible of your Weakneſſes and Wants, and of the need you have to watch unto Prayer, and to wait on the Lord, and <hi>frequently</hi> to meet with his People for that End, and to be diligent when met, in attending upon the Lord in his Holy <hi>Fear,</hi> that you may feel his <hi>Preſence,</hi> re<g ref="char:EOLhyphen"/>new your Strength, and know his Work to <hi>proſper,</hi> and be carry'd on in your Souls.</p>
+            <p>But if you neglect this Du<g ref="char:EOLhyphen"/>ty, and are not diligent there<g ref="char:EOLhyphen"/>in, altho' you are <hi>called,</hi> you cannot be <hi>faithful,</hi> nor become his <hi>choſen</hi> People, but will grow <hi>cool</hi> in your Love to God, and will <hi>ſlack</hi> in your Obedience, and will not par<g ref="char:EOLhyphen"/>take,
+<pb n="8" facs="tcp:172614:7"/> Altho' you may hear of the GOOD of his Land, but will become dry, baren and unfruitful unto him; and al<g ref="char:EOLhyphen"/>tho' you may retain a Profeſ<g ref="char:EOLhyphen"/>ſion of the Truth, and confeſs thereunto, yet the <hi>Love of the Word, and the Cares of it will grow,</hi> and the Spirit of it will prevail, and into the Evil that's in it you will be drawn, and under Condem<g ref="char:EOLhyphen"/>nation you will fall, and be in Danger to bring <hi>Reproach</hi> up<g ref="char:EOLhyphen"/>on Truth, <hi>Diſhonour</hi> to the Name of God, and <hi>Scandal</hi> upon the Chriſtian <hi>Religion,</hi> and your Holy <hi>Profeſſion,</hi> in your <hi>Lives</hi> and <hi>Converſations,</hi> and to decline your <hi>Teſtimo<g ref="char:EOLhyphen"/>ny</hi> for the Lord, <hi>both in Words, Habit and Converſation</hi>
+            </p>
+            <pb n="9" facs="tcp:172614:7"/>
+            <p>Oh! therefore, my dear Friends, prize the great Love of God to you, in viſiting and calling you by his Light and Grace, and conſider the End thereof; which is, that you might be a People to his Praiſe, and to the Honour of his Name, and <hi>might ſhew forth the Vertue of him that hath cal<g ref="char:EOLhyphen"/>led you out of Darkneſs into his marvellous Light,</hi> 1 Pet. 2. 9. to ſerve him with <hi>Reverence</hi> and <hi>godly Fear,</hi> and to be found diligent in that Practice <hi>of Meet<g ref="char:EOLhyphen"/>ing often together, and Speaking often one unto another, and think<g ref="char:EOLhyphen"/>ing on his Name,</hi> Mal. 3. 16. as thoſe that feared him <hi>did in the Ages paſt,</hi> of whom the Lord ſaid, theſe ſhall be <hi>Mine.</hi>
+            </p>
+            <pb n="10" facs="tcp:172614:8"/>
+            <p>Oh! that's precious to know, and comfortable to experi<g ref="char:EOLhyphen"/>ence that we are <hi>HIS, his</hi> People, <hi>his</hi> Children, <hi>his</hi> Ser<g ref="char:EOLhyphen"/>vants, <hi>his</hi> Sons and Daughters, then we ſhall have <hi>his</hi> Bleſſing, enjoy <hi>his</hi> Preſence, know <hi>his</hi> Care to be over us; and feed at <hi>his</hi> Table, partake of <hi>his</hi> Bread, be nouriſh'd by the Milk of <hi>his</hi> Word, grow in <hi>his</hi> Grace and the Knowledg of our Lord and Saviour Jeſus Chriſt, and our Souls will be filled with Love to him (<hi>Joh.</hi> 15. 10, 12.) and we ſhall ma<g ref="char:EOLhyphen"/>nifeſt it by our keeping his Commandments, and be ena<g ref="char:EOLhyphen"/>bled by him to keep our Teſti<g ref="char:EOLhyphen"/>mony <hi>unſpotted,</hi> and in <hi>Truth</hi> and <hi>Faithfulneſs</hi> ſtand Witneſ<g ref="char:EOLhyphen"/>ſes for him againſt the <hi>World,</hi>
+               <pb n="11" facs="tcp:172614:8"/> all its corrupt Ways, Faſhions, Cuſtoms, Religions and Tra<g ref="char:EOLhyphen"/>ditions, and be preſerv'd <hi>from touching the unclean thing; then the Lord will receive us,</hi> 2 Cor. 6. 17. and <hi>own</hi> us, <hi>ſtand</hi> by and <hi>preſerve</hi> us, <hi>protect</hi> and <hi>defend</hi> us, <hi>ſupport</hi> and <hi>ſuſtain</hi> us in and under <hi>all</hi> we may meet with, for the faithful Diſcharge of our <hi>Duty</hi> to him, and keeping our <hi>Teſtimony</hi> for him: Then, oh then! neither the <hi>Frowns</hi> nor <hi>Flatte<g ref="char:EOLhyphen"/>ries,</hi> the <hi>Threats</hi> nor <hi>Entreaties,</hi> the <hi>Favour</hi> nor <hi>Diſpleaſure</hi> of Men will prevail upon us, to decline our Teſtimony or neglect our Duty. But the faithful Diſcharg thereof, above all other things, by us, will be preferr'd, and our Love to
+<pb n="12" facs="tcp:172614:9"/> Chriſt thereby manifeſted, as it ought to be; for you know he hath ſaid, <hi>If any man love any thing more than me he is not worthy of me:</hi> Therefore let us <hi>look</hi> to him, and <hi>wait</hi> on him, and <hi>pray</hi> to him, to carry on, to proſper and compleat the Work of <hi>Righteouſneſs, Re<g ref="char:EOLhyphen"/>demption</hi> and <hi>Salvation</hi> in our Hearts and Souls. And be watchful againſt all that which would draw away your Hearts and Minds from the Lord into the Earth and earthly Things, and the Love and too eager purſuit thereof; for that will <hi>cooll</hi> your Love to God, and <hi>chill</hi> your Zeal, and cauſe a <hi>Slackneſs</hi> to your Chriſtian Duty, of meeting together to wait upon God, and will have
+<pb n="13" facs="tcp:172614:9"/> a Tendency to bring you into a cold, dead, formal State, and to make you like the Tree that had Leaves only, and no Fruit, to which Chriſt ſaid, <hi>Let no fruit grow on thee: And preſently it withered, and came to nought,</hi> Matth. 21. 19.</p>
+            <p>Therefore my dear and ten<g ref="char:EOLhyphen"/>der Friends, that are viſited and called of latter time, be diligent in waiting upon God, and faithful to him, and an<g ref="char:EOLhyphen"/>ſwer his Requirings, and be doers of his Will, ſo far as he hath made it known; for as you are faithful in a few or little things, God will make known more and greater, for <hi>a bruiſed Reed ſhall he not break, and the ſmoaking flax ſhall he not quench; he ſhall bring forth
+<pb n="14" facs="tcp:172614:10"/> judgment unto truth,</hi> Iſa. 43. 3. But there muſt be a waiting on him in this Way, and a follow<g ref="char:EOLhyphen"/>ing him therein, and not a ſtart<g ref="char:EOLhyphen"/>ing aſide, like a broken Bow; for if ye do not follow Wiſdom in the Way ſhe leads, which is the Way of Righteouſneſs, and in the middle Paths of Judgments, ye cannot be made Partakers of the living Sub<g ref="char:EOLhyphen"/>ſtance, or know your Treaſures filled.</p>
+            <p>Therefore faithfully follow the Lord, and ye ſhall know him, (<hi>Iſa.</hi> 42. 13.) to <hi>go forth as a mighty man; he ſhall ſtir up jealouſie, like a man of war; he ſhall cry, yea roar; he ſhall prevail againſt his enemies. For he hath a bow, and a crown was given unto him, and he went forth
+<pb n="15" facs="tcp:172614:10"/> conquering, and to conquer,</hi> Rev. 6. 2. This is the Captain of the Lord's Hoſt; this is he whom the <hi>Armies that are in Heaven follow;</hi> this is he in whom we have believed, <hi>Revelat. 1. 18. that was dead and is alive, and lives for ever more;</hi> this is he <hi>to whom all power is given in heaven and in earth,</hi> Matth. 28. 18. who will deſtroy our Enemies, and that great Enemy, that is, Death; that will put an end to Sin; that will <hi>finiſh tranſgreſſions;</hi> that will <hi>bring everlaſting righ<g ref="char:EOLhyphen"/>teouſneſs</hi> (Dan. 9. 24.) into our Souls, and compleat the Work of our Redemption and Salva<g ref="char:EOLhyphen"/>tion, which the Father ſent him to do, if we follow him in Truth, in ſincerity and up<g ref="char:EOLhyphen"/>rightneſs
+<pb n="16" facs="tcp:172614:11"/> of Heart in the way of the daily Croſs (<hi>Matt.</hi> 10. 28.) and in the Regeneration, which is the End of our Call and Viſitation, and is both our <hi>Duty</hi> and <hi>Intereſt;</hi> for there<g ref="char:EOLhyphen"/>by we ſhall obtain Peace to our Souls, find Acceptance with God, through him, and be fitted for his Kingdom; and as we live, abide and walk in him, ſhall we be kept, while here, in a patient continuance in well doing, and be made ſharers <hi>of Glory,</hi> partakers <hi>of Immortality,</hi> and Inheritors <hi>of Eternal Life,</hi> Rom. 2. 7.</p>
+            <p>Let nothing, therefore, in this low World, nor any thing you may meet with in your Pilgrimage through this mor<g ref="char:EOLhyphen"/>tal Life or Vale of Tears pre<g ref="char:EOLhyphen"/>vail
+<pb n="17" facs="tcp:172614:11"/> upon you to neglect your Duty to God, or decline your Teſtimony for him, <hi>in any Reſpect:</hi> For he hath not on<g ref="char:EOLhyphen"/>ly called and raiſed us up to be a People, but hath kept and preſerved us in and under all our Exerciſes, Troubles, Suf<g ref="char:EOLhyphen"/>ferings or Afflictions that he hath ſuffer'd to come upon us for the trial of our Faith, and exerciſe of our Patience, of what kind or nature ſoever, whether from the World or among our ſelves; he hath been a ſhelter in the Time of Storm and a Refuge in the Day of Trouble.</p>
+            <p>Oh! Let us therefore re<g ref="char:EOLhyphen"/>member his Love to us, and fear him and his Goodneſs, <hi>Hoſ.</hi> 3. 5. and be daily exerciſed in
+<pb n="18" facs="tcp:172614:12"/> meditating in his LAW, and in a Spirit of Prayer and Suppli<g ref="char:EOLhyphen"/>cation unto him, that we may keep the ſame and walk there<g ref="char:EOLhyphen"/>in, and in his holy and undefil'd way will he then lead us. And we ſhall partake of his Bleſſing and be directed by his <hi>Wiſdom</hi> and guided by his <hi>Council,</hi> and in the End be received into <hi>Glory, Pſal.</hi> 73. 24.</p>
+            <p>Once more, therefore, my dear and tender Friends, in brotherly Love, I exhort you not to forſake the <hi>Aſſembling of your ſelves together, as the man<g ref="char:EOLhyphen"/>ner of ſome is; but rather the more as the day approaches,</hi> Heb. 10. 25.</p>
+            <p>For altho' this is a Day of outward Liberty, which the Lord by his Power and Provi<g ref="char:EOLhyphen"/>dence
+<pb n="19" facs="tcp:172614:12"/> hath brought us to en<g ref="char:EOLhyphen"/>joy, and after a Storm hath brought this Calm, for which we ought, and my Soul in Hu<g ref="char:EOLhyphen"/>mility doth humbly thank the Lord, and return Praiſes to his Holy Name, and am alſo thankful unto thoſe under whom we do enjoy this Mer<g ref="char:EOLhyphen"/>cy, and we ought to pray for them, That we may live a peaceable Life, in all Godli<g ref="char:EOLhyphen"/>neſs and Honeſty, 1 <hi>Tim.</hi> 2. 2.</p>
+            <p>But my dear Friends, now let's not decline or grow ſlack in this Chriſtian Duty, or forbear the aſſembling of our ſelves together, to <hi>wait</hi> on God in <hi>Diligence,</hi> and to <hi>ſerve</hi> him in <hi>Faithfulneſs,</hi> and in a right Senſe of his Mercies, of the multitude of which, this
+<pb n="20" facs="tcp:172614:13"/> of peaceably meeting together is not the leaſt: And if any of thoſe that in the Diſcharge of this Duty did diligently meet, when they could ſeldom enjoy a quiet Meeting, and hazard the Loſs of their Goods and Liberty, and by being confin<g ref="char:EOLhyphen"/>ed in <hi>Noyſom Goals</hi> and <hi>Stink<g ref="char:EOLhyphen"/>ing Holes and Dungeons,</hi> haz<g ref="char:EOLhyphen"/>arded their <hi>Healths,</hi> and con<g ref="char:EOLhyphen"/>ſequently <hi>endanger'd their Lives:</hi> If any of theſe ſhould now grow <hi>cold,</hi> and <hi>ſlack</hi> in this Chriſtian Duty in this Time of Liberty, they may, notwith<g ref="char:EOLhyphen"/>ſtanding what they have done and ſuffered, fall ſhort of that Reſt God hath prepar'd for his People, and miſs of that Re<g ref="char:EOLhyphen"/>ward he gives to the Faithful.</p>
+            <pb n="21" facs="tcp:172614:13"/>
+            <p>Therefore let all ſuch be di<g ref="char:EOLhyphen"/>ligent herein, and perſevere to the End in <hi>Faithfulneſs</hi> and <hi>Diligence, i. e.</hi> in <hi>Meeting</hi> and <hi>Waiting upon God therein;</hi> and rather the more as the Day ap<g ref="char:EOLhyphen"/>proacheth: For, oh my Friends! I muſt tell you, there is a Day approaching, wherein we ſhall meet again with Tryals and Exerciſes, and ſhall need to know the Lord to be our <hi>Strength</hi> and <hi>Refuge,</hi> our <hi>Rock</hi> and <hi>Hiding-place,</hi> and <hi>Defence.</hi>
+            </p>
+            <p>And the more <hi>diligent</hi> we are now in <hi>ſerving</hi> him, and the more <hi>faithful</hi> we are in <hi>following</hi> him, the more we ſhall renew our Acquaintance with the Lord and Strength in him, and be the better enabl'd to bear our Teſtimony for him
+<pb n="22" facs="tcp:172614:14"/> in ſuch a Day, and have the more Comfort and Peace there<g ref="char:EOLhyphen"/>in. If then we can appeal to the Lord, like good <hi>Hezekiah;</hi> and ſay; <hi>Remember now, O Lord, I beſeech thee, how I have walked before thee, in truth, and with a perfect heart, and have done that which is good in thy ſight,</hi> 2 Kings, 20. 3.</p>
+            <p>Oh! let this be our Care, to ſee that we are found doing that which is good in his Sight, and that we <hi>ſlight</hi> none of his Mercies, nor <hi>neglect</hi> any <hi>Sea<g ref="char:EOLhyphen"/>ſon</hi> or <hi>Opportunity</hi> that he af<g ref="char:EOLhyphen"/>fords us, but may diligently improve the ſame to his Hon<g ref="char:EOLhyphen"/>our, that it may in the end be to our Peace and Comfort.</p>
+            <p>And if any <hi>did,</hi> in the time of Suffering <hi>neglect</hi> and <hi>omit</hi>
+               <pb n="23" facs="tcp:172614:14"/> their Chriſtian Duty of Meet<g ref="char:EOLhyphen"/>ing together with God's Peo<g ref="char:EOLhyphen"/>ple, to <hi>wait</hi> upon him, to <hi>wor<g ref="char:EOLhyphen"/>ſhip</hi> and <hi>ſerve</hi> him, and to bear a <hi>Teſtimony</hi> for him, ſuch, that now remain <hi>ought to prize</hi> God's Love and Mercy, in affording <hi>ſuch a Seaſon</hi> as this is.</p>
+            <p>And great Diligence and Care they ought to be found in, to improve theſe preſent peaceable Opportunities of Meeting together, that they may <hi>renew their Strength,</hi> and know <hi>their Love to God</hi> and <hi>Zeal</hi> for his Name and Teſtimony to be <hi>increaſed;</hi> and that out of that <hi>ſlaviſh Fear</hi> that came over them, and from under that Spirit of the World that did then prevail over them, they may be brought, and by
+<pb n="24" facs="tcp:172614:15"/> the Lord may be enabled to bear their Teſtimony in <hi>Plain<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Faithfulneſs</hi> againſt the corrupt World, and the <hi>Lan<g ref="char:EOLhyphen"/>guage, Ways, Faſhions</hi> and <hi>Cu<g ref="char:EOLhyphen"/>ſtoms</hi> thereof.</p>
+            <p>And in that Fear, Humility and Modeſty that becomes the Followers of our Lord Jeſus Chriſt, who was a Pattern of Humility; <hi>Who in the days of his fleſh, when he had offer'd up prayers and ſupplications, with ſtrong crying and tears unto him that was able to ſave him from Death, was heard in that he feared,</hi> Heb. 5. 7. who was alſo exemplary in <hi>Truth, Plain<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Simplicity;</hi> the which, if we would follow his Ex<g ref="char:EOLhyphen"/>ample, let not us <hi>exceed;</hi> and then in <hi>Simplicity, Plainneſs</hi>
+               <pb n="25" facs="tcp:172614:15"/> and Truth, (<hi>Matt. 5. 37. Ro. 15. 5. Joh. 1. 51. Joh. 3. 3. Joh.</hi> 5. 19.) he will lead and keep all thoſe in, that will <hi>learn</hi> of and <hi>follow</hi> him, and that are <hi>diligent</hi> in <hi>ſeeking</hi> God and <hi>ſerving</hi> him in his Spirit, and ſupplicating the Lord therein <hi>in true Faith,</hi> and <hi>the Name of the Lord Jeſus Chriſt:</hi> There, oh, it's there, that whatſoever they <hi>ſo</hi> ask ſhall receive, and theſe may be en<g ref="char:EOLhyphen"/>abled, in this Day, to ſtand <hi>faithful</hi> and <hi>true Witneſſes</hi> for him in the approaching Day, wherein we ſhall meet with Trials and Exerciſes, and there<g ref="char:EOLhyphen"/>fore as the Exhortation was, lets not <hi>forſake the aſſembling our ſelves together, as the manner of ſome is, but rather the more,
+<pb n="26" facs="tcp:172614:16"/> as the Day approacheth,</hi> for if ſuch <hi>neglect</hi> this <hi>Duty</hi> now, they'll not be <hi>able</hi> to endure the Exerciſes and Troubles of the approaching Day.</p>
+            <p>Therefore let all Prize and improve the preſent Time and Seaſons of Love, in a <hi>diligent</hi> and <hi>frequent meeting together,</hi> and a <hi>diligent</hi> and <hi>faithful</hi> ſerv<g ref="char:EOLhyphen"/>ing God, when <hi>ſo met,</hi> and then the Lord will own us, appear among us, manifeſt his <hi>preſence</hi> in the <hi>midst of us,</hi> o<g ref="char:EOLhyphen"/>verſhadow our <hi>Aſſemblies</hi> with the Wing of his <hi>Glory.</hi>
+            </p>
+            <p>And will cauſe the <hi>Holy Ghost to fall upon us</hi> (Acts 2. 4.) <hi>as we meet with one accord, fill us with the Holy Spirit,</hi> and make us partakers of the <hi>Comforts</hi> thereof, of the Life that's in
+<pb n="27" facs="tcp:172614:16"/> his <hi>Preſence,</hi> and of the <hi>Joy</hi> of his <hi>Salvation,</hi> and will cauſe the <hi>Showers</hi> of his Divine <hi>Love plentifully</hi> to fall upon us, whereby his <hi>Heritage</hi> will be <hi>refreſhed,</hi> his <hi>Garden</hi> and <hi>Plants watered,</hi> and his People <hi>com<g ref="char:EOLhyphen"/>forted,</hi> and all <hi>grow</hi> up <hi>freſh</hi> and <hi>Green</hi> in Life, in Vertue, in <hi>Love</hi> and <hi>Faithfulneſs</hi> to God, his Truth and Teſti<g ref="char:EOLhyphen"/>mony, and <hi>one unto another.</hi>
+            </p>
+            <p>And as all thus grow in <hi>Love</hi> and <hi>Faithfulneſs,</hi> and en<g ref="char:EOLhyphen"/>creaſe through the Knowlege of him that <hi>hath called us to Glory and Vertue, and give all diligence,</hi> they'll <hi>add to that, like pretious Faith that they have obtained (through the Righ<g ref="char:EOLhyphen"/>teouſneſs of God and our Saviour Jeſus Christ) Vertue, and to
+<pb n="28" facs="tcp:172614:17"/> Vertue Knowledge, to Know<g ref="char:EOLhyphen"/>ledge Temperance, to Temperance Patience and Godlineſs, and to Godlineſs Brotherly Kindneſs and Charity; and if theſe things be in you and abound, they make you that ye ſhall neither be bar<g ref="char:EOLhyphen"/>ren nor unfruitful in the Know<g ref="char:EOLhyphen"/>ledge of God and our Lord Jeſus Christ,</hi> 2 Pet. 1. 3, 5, 6, 7, 8.</p>
+            <p>And therefore, my dear Friends, it greatly concerns us to <hi>wait</hi> and <hi>attend</hi> upon the Lord God, in the Spirit of his <hi>dear Son,</hi> and to be <hi>frequent</hi> and <hi>diligent</hi> in that <hi>Chriſtian Duty,</hi> that we may <hi>ſenſibly know</hi> and <hi>livingly Experience</hi> an Increaſe in the Knowledge of God, and in theſe Chriſtian <hi>Vertues;</hi> which if we <hi>neglect</hi> our <hi>Duty</hi> of <hi>Meeting</hi> and <hi>Wait<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="29" facs="tcp:172614:17"/> upon God, we can never truly know theſe things, nor grow in theſe Chriſtian <hi>Ver<g ref="char:EOLhyphen"/>tues,</hi> neither can we be true to our Teſtimony, nor keep the ſame ſo <hi>clear</hi> and <hi>clean</hi> in all things, as we ought, nor <hi>rightly do</hi> and <hi>obſerve</hi> Chriſt's Commands, endure his Croſs and follow his <hi>Example,</hi> in that <hi>plainneſs</hi> and <hi>ſimplicity</hi> which becomes thoſe that are his <hi>Diſciples,</hi> that we may not in any thing <hi>decline</hi> therefrom, under any <hi>Colour</hi> or <hi>Pretence whatſoever,</hi> either for the <hi>Fear</hi> of ſuffering or to <hi>pleaſe</hi> any<g ref="char:punc">▪</g> And then, oh then! my dear and tender Friends, our God will <hi>bleſs</hi> us, and Chriſt will <hi>love us,</hi> and we ſhall <hi>love</hi> him, and to all Men, thereby, it <hi>will
+<pb n="30" facs="tcp:172614:18"/> be known we are his Diſciples, in that we love one another,</hi> John 13, 35.</p>
+            <p>This is a pleaſant Habita<g ref="char:EOLhyphen"/>tion and ſafe Dwelling-place: Here <hi>Fear</hi> will be caſt out, <hi>Jea<g ref="char:EOLhyphen"/>louſies</hi> will have no place, <hi>Life</hi> will be felt, <hi>Comfort</hi> enjoyed, <hi>Zeal</hi> and <hi>Diligence</hi> encreaſed, <hi>Care</hi> and <hi>Caution</hi> uſed, that we may not juſtly offend any, or give occaſion thereof, (1 <hi>Cor.</hi> 10. 31.) either to <hi>Jews or Gen<g ref="char:EOLhyphen"/>tiles, or the Church of God,</hi> by our <hi>unfaithfulneſs to God, Cool<g ref="char:EOLhyphen"/>neſs</hi> to love, and <hi>Slackneſs</hi> to do our Duty, <hi>decling</hi> our <hi>Meet<g ref="char:EOLhyphen"/>ings,</hi> and being <hi>careleſs, drouſie</hi> or <hi>negligent</hi> in <hi>waiting</hi> and <hi>at<g ref="char:EOLhyphen"/>tending</hi> upon God therein; for one Cauſe, if not the <hi>main</hi> and <hi>great,</hi> is, That ſome a<g ref="char:EOLhyphen"/>mong
+<pb n="31" facs="tcp:172614:18"/> us have been and are lia<g ref="char:EOLhyphen"/>ble to be drawn, and are too apt to imitate (in their <hi>Lan<g ref="char:EOLhyphen"/>guage</hi> vain <hi>Faſhions,</hi> fooliſh <hi>Dreſſes,</hi> evil Cuſtoms and Ways) the World, or thoſe that do not keep in that <hi>Meek<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Lowlineſs</hi> that Chriſt exhorted to, and was a Pattern of.</p>
+            <p>And this is through their <hi>weak<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Corruption</hi> of Heart, <hi>Love of the World,</hi> and the <hi>Lust of the Eye, the Lust of the Fleſh</hi> and <hi>Pride of Life, (1 Joh.</hi> 2. 15, 16.) which hath had a Place in them, and hath been too much occaſioned through Remiſneſs in their Chriſtian Duty, of <hi>frequently</hi> Meeting together in the <hi>Fear</hi> and <hi>Name</hi> of God and Jeſus Chriſt, and
+<pb n="32" facs="tcp:172614:19"/> 
+               <hi>diligently, humbly</hi> and <hi>reverent<g ref="char:EOLhyphen"/>ly Waiting</hi> and <hi>Attending</hi> upon him therein, and giving up, in <hi>Obedience</hi> to the Call and Re<g ref="char:EOLhyphen"/>quirings of God, and being <hi>true</hi> to the inward <hi>Diſcoveries</hi> of his <hi>Light</hi> and <hi>Convictions</hi> of his Spirit in <hi>their Hearts.</hi>
+            </p>
+            <p>Oh! therefore, all you who ſhall find your ſelves in this State, and have any Deſires to amend your Ways. Let me, in brotherly Love, and in great good Will to your <hi>Souls Good,</hi> earneſtly intreat you to be <hi>diligent</hi> in <hi>Waiting</hi> and <hi>At<g ref="char:EOLhyphen"/>tending</hi> upon the Lord, in the Aſſemblies of his Choſen Peo<g ref="char:EOLhyphen"/>ple, and inwardly exercis'd in the precious &amp; <hi>unſpeakable Gift of God's Spirit,</hi> 2 Cor. 9. 15. <hi>and draw near him in Faith, and with
+<pb n="33" facs="tcp:172614:19"/> a true Heart,</hi> Heb. 10. 22. Then will the Lord <hi>draw near</hi> to you, <hi>renew your Strength, wean</hi> your Hearts, and <hi>draw</hi> your Affecti<g ref="char:EOLhyphen"/>ons off and from all the fading <hi>Vanities,</hi> fooliſh <hi>Delights,</hi> ſinful <hi>Pleaſures,</hi> corrupt <hi>Ways,</hi> evil <hi>Cuſtoms,</hi> unprofitable <hi>Talk:</hi> And from whatſoever is either <hi>offenſive</hi> unto God, <hi>hurtful</hi> to your Souls, <hi>unbecoming</hi> the <hi>Truth</hi> and our Holy <hi>Profeſſion,</hi> and ſet <hi>your Minds upon things above,</hi> Col. 3. 2. and <hi>raiſe you up by his Power,</hi> Rom. 6. 4 <hi>into newneſs of Life</hi> and <hi>redeem you,</hi> Rev. 14. 3, 4. from the World, and the Evil of it, and bring you into <hi>Covenant with God,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity with his People,</hi> and teach you <hi>ſo</hi> to live and walk, that you may <hi>pleaſe him, eſcape
+<pb n="34" facs="tcp:172614:20"/> his Wrath,</hi> (1 Eph. 6.) and be a People to the <hi>Praiſe of his Grace,</hi> and to the <hi>Honour of his Name,</hi> and to do what you do therein; then will your <hi>Peace be as a River, and your Righteouſneſs, like the Waves of the Sea,</hi> and we ſhall not only give <hi>Honour</hi> to God, but be a <hi>Comfort</hi> one to another, and be one another's <hi>Joy</hi> and <hi>Crown</hi> of Rejoycing in the Lord, which that we may be kept in <hi>Love</hi> and <hi>Faithfulneſs</hi> to God, and one another, to the End,</p>
+            <q>Is the hearty Prayer of your ſin<g ref="char:EOLhyphen"/>cere Friend and Brother, in that moſt precious Truth, which will <hi>out-live</hi> and <hi>laſt</hi> all the Contemners of <hi>it,</hi> and gives <hi>Joy,</hi> in <hi>Believing</hi> and <hi>Com<g ref="char:EOLhyphen"/>fort,</hi>
+               <pb n="35" facs="tcp:172614:20"/> in obeying, and through them <hi>Peace</hi> and <hi>Salvation,</hi> to the Immortal Soul, as there is an abiding therein.</q>
+            <closer>
+               <dateline>George-yard, London, <date>
+                     <hi>the</hi> 11th of the 3d Month, 1696.</date>
+               </dateline>
+               <signed>I. Field.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Errata,</hi> p. 8. l. 8. for <hi>Word</hi> r. <hi>World</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
